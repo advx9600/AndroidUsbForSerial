@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <usb-device vendor-id="0x058f" product-id="0x6366" />  <!--my usb disk-->
+    <usb-device vendor-id="0x1fc9" product-id="0x0094" />  <!--1052 serial dev-->
+    <usb-device vendor-id="0x1a86" product-id="0x7523" />  <!--qinheng hl-340 serial-->
+</resources>
